@@ -1,0 +1,22 @@
+#title {
+    text-align: center;
+    font-size: calc(100% + 2vw + 2vh);
+    font-weight: bold;
+    color: white;
+    background-color: brown;
+    margin-bottom: 3rem;
+}
+
+.horscroll {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.row > * {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.card {
+    margin-right: 1rem;
+}
